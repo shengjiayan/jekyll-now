@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Geek Girl, Financial Engineer, Data Scientist, Crochet Artist
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Glad you found me! I'm Shengjia, a Chinese girl currently live in Los Angeles. I speak Mandarin, English, a little Japanese, Java and Python. You may check the links below to know me more.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shengjia.yan@gmail.com](mailto:email@domain.com)
