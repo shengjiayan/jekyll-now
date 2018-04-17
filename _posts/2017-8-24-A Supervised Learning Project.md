@@ -1,9 +1,5 @@
 
-# A Supervised Learning Project
-
 ### on purpose of mastering the techniques
-
-
 
 
 ```python
